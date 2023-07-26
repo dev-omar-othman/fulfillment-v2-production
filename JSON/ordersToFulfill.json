@@ -1,0 +1,556 @@
+[
+  {
+    "orderNumber": 5320711373046,
+    "orderTotalPrice": "416.00",
+    "orderId": "#11366",
+    "destination1": "108 Wooster Street",
+    "destination2": "Unit 4D",
+    "postalCode": "10012",
+    "countryCode": "US",
+    "state": "NY",
+    "city": "New York",
+    "customer": "Matthew McNabb",
+    "itemsSku": [
+      "9120109772750",
+      "9120109770930",
+      "9120109770961",
+      "9120109772835"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109772750",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109770930",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109770961",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109772835",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Harness - Classic Brown XL / Brass",
+      "Butter Leather City Dog Leash - Classic Brown L / Brass",
+      "Butter Leather City Dog Leash - Navy Blue L / Brass",
+      "Butter Leather Dog Harness - Navy Blue XL / Brass"
+    ],
+    "orderDate": "2023-07-23T18:43:45.000Z",
+    "fulfillment_order_id": 6431029756150
+  },
+  {
+    "orderNumber": 5320868987126,
+    "orderTotalPrice": "79.00",
+    "orderId": "#11370",
+    "destination1": "4995 s Holladay Blvd",
+    "destination2": null,
+    "postalCode": "84117",
+    "countryCode": "US",
+    "state": "UT",
+    "city": "Holladay",
+    "customer": "Robyn Moreno",
+    "itemsSku": [
+      "9120109773276"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109773276",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Harness - Classic Brown XS / Steel"
+    ],
+    "orderDate": "2023-07-23T21:36:53.000Z",
+    "fulfillment_order_id": 6431193858294
+  },
+  {
+    "orderNumber": 5320891465974,
+    "orderTotalPrice": "59.00",
+    "orderId": "#11371",
+    "destination1": "107 West 86th Street",
+    "destination2": "Apt. #15B",
+    "postalCode": "10024",
+    "countryCode": "US",
+    "state": "NY",
+    "city": "New York",
+    "customer": "Catherine Hayden",
+    "itemsSku": [
+      "9120109770206"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770206",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Navy Blue S / Brass"
+    ],
+    "orderDate": "2023-07-23T22:05:24.000Z",
+    "fulfillment_order_id": 6431217549558
+  },
+  {
+    "orderNumber": 5320950972662,
+    "orderTotalPrice": "59.00",
+    "orderId": "#11373",
+    "destination1": "586 East 7th Street",
+    "destination2": null,
+    "postalCode": "02127",
+    "countryCode": "US",
+    "state": "MA",
+    "city": "Boston",
+    "customer": "Giuseppe Mollica",
+    "itemsSku": [
+      "9120109770091"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770091",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Forest Green M / Brass"
+    ],
+    "orderDate": "2023-07-23T23:31:19.000Z",
+    "fulfillment_order_id": 6431280267510
+  },
+  {
+    "orderNumber": 5320993472758,
+    "orderTotalPrice": "69.00",
+    "orderId": "#11374",
+    "destination1": "18 Lakeview Pl",
+    "destination2": null,
+    "postalCode": "60047",
+    "countryCode": "US",
+    "state": "IL",
+    "city": "Lake Zurich",
+    "customer": "Melissa Arquinego",
+    "itemsSku": [
+      "9120109770480"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770480",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Chili Red XXL / Steel"
+    ],
+    "orderDate": "2023-07-24T00:35:29.000Z",
+    "fulfillment_order_id": 6431324209398
+  },
+  {
+    "orderNumber": 5320999272694,
+    "orderTotalPrice": "148.00",
+    "orderId": "#11375",
+    "destination1": "2125 14th Street NW",
+    "destination2": "106W",
+    "postalCode": "20009",
+    "countryCode": "US",
+    "state": "DC",
+    "city": "Washington",
+    "customer": "Melissa Rosen",
+    "itemsSku": [
+      "9120109770435",
+      "9120109771067"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770435",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109771067",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Chili Red XS / Steel",
+      "Butter Leather City Dog Leash - Chili Red S / Steel"
+    ],
+    "orderDate": "2023-07-24T00:43:54.000Z",
+    "fulfillment_order_id": 6431330369782
+  },
+  {
+    "orderNumber": 5321125921014,
+    "orderTotalPrice": "242.74",
+    "orderId": "#11378",
+    "destination1": "1157 Wildwood Court",
+    "destination2": null,
+    "postalCode": "91913",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "Chula Vista",
+    "customer": "Kristine Farnal",
+    "itemsSku": [
+      "9120109771722",
+      "9120109772651"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771722",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109772651",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather 3x Adjustable Dog Leash - Forest Green S / Brass",
+      "Butter Leather Dog Harness - Forest Green M / Brass"
+    ],
+    "orderDate": "2023-07-24T04:02:53.000Z",
+    "fulfillment_order_id": 6431461638390
+  },
+  {
+    "orderNumber": 5321150497014,
+    "orderTotalPrice": "480.28",
+    "orderId": "#11379",
+    "destination1": "217 35th St #B",
+    "destination2": null,
+    "postalCode": "90266-3316",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "Manhattan Beach",
+    "customer": "Holly Mitchell",
+    "itemsSku": [
+      "9120109771791",
+      "9120109772828"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771791",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109772828",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather 3x Adjustable Dog Leash - Navy Blue M / Brass",
+      "Butter Leather Dog Harness - Navy Blue L / Brass"
+    ],
+    "orderDate": "2023-07-24T04:44:56.000Z",
+    "fulfillment_order_id": 6431486705910
+  },
+  {
+    "orderNumber": 5321481683190,
+    "orderTotalPrice": "95.90",
+    "orderId": "#11380",
+    "destination1": "1402 Alexandria Drive",
+    "destination2": null,
+    "postalCode": "92107",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "San Diego",
+    "customer": "jessica andrade",
+    "itemsSku": [
+      "9120109772170"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109772170",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Touch of Leather Dog Collar - Military XS / Brass"
+    ],
+    "orderDate": "2023-07-24T13:20:16.000Z",
+    "fulfillment_order_id": 6431825101046
+  },
+  {
+    "orderNumber": 5321591259382,
+    "orderTotalPrice": "178.20",
+    "orderId": "#11381",
+    "destination1": "242 Carolina Street",
+    "destination2": null,
+    "postalCode": "60490",
+    "countryCode": "US",
+    "state": "IL",
+    "city": "Bolingbrook",
+    "customer": "Amy Hanna",
+    "itemsSku": [
+      "9120109771753",
+      "9120109773658"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771753",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109773658",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather 3x Adjustable Dog Leash - Classic Brown S / Brass",
+      "Butter Leather Retriever Dog Collar - Classic Brown S / Brass"
+    ],
+    "orderDate": "2023-07-24T15:08:23.000Z",
+    "fulfillment_order_id": 6431948243190
+  },
+  {
+    "orderNumber": 5321803497718,
+    "orderTotalPrice": "84.73",
+    "orderId": "#11384",
+    "destination1": "938 Vervais Ave",
+    "destination2": null,
+    "postalCode": "94591",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "Vallejo",
+    "customer": "Casey Montalbano",
+    "itemsSku": [
+      "9120109772644"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109772644",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Harness - Forest Green S / Brass"
+    ],
+    "orderDate": "2023-07-24T18:01:52.000Z",
+    "fulfillment_order_id": 6432186990838
+  },
+  {
+    "orderNumber": 5322113482998,
+    "orderTotalPrice": "69.00",
+    "orderId": "#11390",
+    "destination1": "4506 Summit Street",
+    "destination2": null,
+    "postalCode": "64111",
+    "countryCode": "US",
+    "state": "MO",
+    "city": "Kansas City",
+    "customer": "Amanda Rismiller",
+    "itemsSku": [
+      "9120109776499"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109776499",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Mango XS / Brass"
+    ],
+    "orderDate": "2023-07-24T23:10:42.000Z",
+    "fulfillment_order_id": 6432523682038
+  },
+  {
+    "orderNumber": 5322216964342,
+    "orderTotalPrice": "107.10",
+    "orderId": "#11392",
+    "destination1": "26 Store Rd",
+    "destination2": "Rear Cottage",
+    "postalCode": "12404",
+    "countryCode": "US",
+    "state": "NY",
+    "city": "Accord",
+    "customer": "Linda Rose-Winters",
+    "itemsSku": [
+      "9120109772583"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109772583",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Harness - Chili Red L / Brass"
+    ],
+    "orderDate": "2023-07-25T01:32:38.000Z",
+    "fulfillment_order_id": 6432639254774
+  },
+  {
+    "orderNumber": 5322776150262,
+    "orderTotalPrice": "134.30",
+    "orderId": "#11394",
+    "destination1": "6141 N Jean Nicolet Rd",
+    "destination2": null,
+    "postalCode": "53217",
+    "countryCode": "US",
+    "state": "WI",
+    "city": "Milwaukee",
+    "customer": "NyoNyo Lin",
+    "itemsSku": [
+      "9120109776505",
+      "9120109776581"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109776505",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109776581",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Mango S / Brass",
+      "Butter Leather Dog Harness - Mango S / Brass"
+    ],
+    "orderDate": "2023-07-25T14:29:36.000Z",
+    "fulfillment_order_id": 6433228226806
+  },
+  {
+    "orderNumber": 5322869768438,
+    "orderTotalPrice": "83.41",
+    "orderId": "#11396",
+    "destination1": "460 Fairview Ave",
+    "destination2": "Unit 11",
+    "postalCode": "91007",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "ARCADIA",
+    "customer": "Jeanie Chong",
+    "itemsSku": [
+      "9120109771050"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771050",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather City Dog Leash - Sahara Cognac L / Brass"
+    ],
+    "orderDate": "2023-07-25T15:53:12.000Z",
+    "fulfillment_order_id": 6433328300278
+  },
+  {
+    "orderNumber": 5323104747766,
+    "orderTotalPrice": "258.00",
+    "orderId": "#11398",
+    "destination1": "15 Running W Rd",
+    "destination2": null,
+    "postalCode": "29910",
+    "countryCode": "US",
+    "state": "SC",
+    "city": "Bluffton",
+    "customer": "Heidi Holland",
+    "itemsSku": [
+      "9120109771982",
+      "9120109771777"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771982",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109771777",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather 3x Adjustable Dog Leash - Classic Brown L / Steel",
+      "Butter Leather 3x Adjustable Dog Leash - Classic Brown L / Brass"
+    ],
+    "orderDate": "2023-07-25T19:21:13.000Z",
+    "fulfillment_order_id": 6433575174390
+  },
+  {
+    "orderNumber": 5323368038646,
+    "orderTotalPrice": "76.07",
+    "orderId": "#11400",
+    "destination1": "460 Fairview Ave",
+    "destination2": "Unit 11",
+    "postalCode": "91007",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "ARCADIA",
+    "customer": "Jeanie Chong",
+    "itemsSku": [
+      "9120109770404"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770404",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Sahara Cognac L / Brass"
+    ],
+    "orderDate": "2023-07-26T00:21:54.000Z",
+    "fulfillment_order_id": 6433856291062
+  },
+  {
+    "orderNumber": 5323472142582,
+    "orderTotalPrice": "148.00",
+    "orderId": "#11402",
+    "destination1": "28515 N North Valley Pkwy",
+    "destination2": "Apt 3097",
+    "postalCode": "85085",
+    "countryCode": "US",
+    "state": "AZ",
+    "city": "Phoenix",
+    "customer": "Ericka Tithof",
+    "itemsSku": [
+      "9120109771043",
+      "9120109770398"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109771043",
+        "qty": 1
+      },
+      {
+        "barcode": "9120109770398",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather City Dog Leash - Sahara Cognac M / Brass",
+      "Butter Leather Dog Collar - Sahara Cognac M / Brass"
+    ],
+    "orderDate": "2023-07-26T02:40:44.000Z",
+    "fulfillment_order_id": 6433968521462
+  },
+  {
+    "orderNumber": 5324137332982,
+    "orderTotalPrice": "0.00",
+    "orderId": "#11411",
+    "destination1": "302- b15- al karma residence -sheikh zayed",
+    "destination2": null,
+    "postalCode": "90011",
+    "countryCode": "US",
+    "state": "CA",
+    "city": "giza",
+    "customer": "test order",
+    "itemsSku": [
+      "9120109770015"
+    ],
+    "itemsQuantity": [
+      {
+        "barcode": "9120109770015",
+        "qty": 1
+      }
+    ],
+    "orderDescription": [
+      "Butter Leather Dog Collar - Chili Red XS / Brass"
+    ],
+    "orderDate": "2023-07-26T17:27:41.000Z",
+    "fulfillment_order_id": 6434662351094
+  }
+]

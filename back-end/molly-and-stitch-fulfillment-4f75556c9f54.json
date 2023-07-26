@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "molly-and-stitch-fulfillment",
+  "private_key_id": "4f75556c9f54e334a55ae6aa746b1ff187b86bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDzSyaKRYLS63YH\njbEgBDsWtCT4ZqJILEr8BgQME//w3BnKeH8WsLHu/yT9TVWM+zv3ycnzwgIzfKWT\n9AjnmUhkrO3f84ODi1e/WjsGLbH5dbDtThhjhv7cg9edSiFytxskZT5KM3y7H7KE\nh4+pGkFcdy2g0x0Z+pQgKBOIx/btzWOPQ8VQXOtF3+Le8oYWEpMoWi+HHEwlO2w+\n7zV8hDsMD0EmCIVupgPvJVDLZfM2KBaTymsdDvBdARzVUHfjwUpr5p9NGDrPH6Nz\n5KdFhBgNdOdo9aoRZX1nVETCL+w6loo3/Ra/WirkgFpLrKtdO313tC3+ZlQYGW+i\nVpdEPy3lAgMBAAECggEABmIg4zzap10NLjqN/KiPwlM8qxXKSTl8SCuCPKzjqLal\nqJXLw9Uj/gDMwCagyX+n/aLaPR6If0BUedLLzwPLDfUpkpgpibCEv10HMmzNgB2R\n5FAJvMbEdhWxeQuCYCekuyo63aiHK8Ozo92Iq+en8lygIlmXqGBWNZfHl22jsW6G\nhxsgcAXfbgRo4tn+K9wL4+RHfyxp8+9+cXcrSVRPYf2IP3Lc0AjVIKnSrUf7fjUu\nGEiRYwqbCtPmUZ14BYaKAZWzOnjRt6n3zXOKVy/54Pta6lzRHpwu3grN9Abb3rbC\noklygRW18T0YgRcKzICQaCYVI8ja8XwpX2JS75CyAQKBgQD6fnTKckC9L+pcoaqG\nkqX3Mp/k1S19D9dSdX0aXz16AjAsYEtk36EgvpH71meWeI/WQvk4j3hbDOXZOuSO\nqeGjz44lHnxaANAF+BYe2tmLmb+IzOxi/gC2KYqMxVTm/yCv7AFtRiEJtCAhoG4p\nhsJtTezmawuChTLMZXsgIKPi5QKBgQD4pC1dG0D15ldabfuxhaACn0cAHOqyJhLU\nfTPDDUHiRMQsOVP6iPfDCDx7364TKlN/ckqCfFG2rAyAyneT6xtY4G1/Svaqw8mN\no8335OykR3TFTfz/ZpKjB6TyJpHvfCEpkZKVXrDARnqcikKeMWKFcwd6gzO0HokD\nVVGg/bJvAQKBgA6pcDSZU2i/cTxSyiRuWQCLGgjO4Ya8cqIE9nmgsXx+vEscp80T\nud6syOawugd4rxKfgO7qluTdcGayp8Yh828fKvbJPgYWnhZ7WvAbZzhgm3FqbTuu\nGmSPMejjdADBVix15+95d12WCXtuZIRRuvei5AbopRfSrBKCrh5HStBxAoGATTqR\nbI3+i2JUV545w1YB8U6PuxVAQL1as+1/mmIPyLwbQrE7yGGqs0VnpAJCC2nmLXvO\ncOE0cEzYRVid86/e+qga2qLqIvhVLk1muEy+w/f96RrkLmApw8GoFh6szXn8wvCY\nWxTiSZaaluzK7F/ifhjQhdkiwhuJ6yMhC6RBPAECgYA7KzTkUZxr6iEPL6BaB42j\nP6pO8jIA+Fwa7iP5OVwx6zinKHQQ+Eho159bV+eJLLCFvXaqW0qd0yC3c6upXD0H\n9P91ojEL7U/hTJR5tYhOuwcwz2qv2H9rCJ1Ui0q2HIDdFNmolPB6Hdi81zr1XKd2\nIcKSJDtWZA2RPXPtdQWl5A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "molly-and-stitch-app@molly-and-stitch-fulfillment.iam.gserviceaccount.com",
+  "client_id": "117371049835132981498",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/molly-and-stitch-app%40molly-and-stitch-fulfillment.iam.gserviceaccount.com"
+}
